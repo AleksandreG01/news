@@ -111,7 +111,7 @@ $('.carousel_4').owlCarousel({
 
 
 const counters = document.querySelectorAll(".count");
-const speed = 900;
+const speed = 3000;
 
 counters.forEach((counter) => {
   const updateCount = () => {
